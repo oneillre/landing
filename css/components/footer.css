@@ -1,0 +1,28 @@
+footer {
+  height: 100px;
+  background-color: #1C541C;
+  color: #86BA90;
+  font-size: 36px;
+  text-align: center;
+}
+
+p  {
+  margin: 0;
+}
+
+.footnote {
+  font-size: 12px;
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 12px 0 0 0;
+}
+
+.icons li {
+  display: inline-block;
+  margin: 0 5;
+  padding: 0;
+}
+

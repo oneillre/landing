@@ -1,0 +1,31 @@
+/*Button Styling*/
+
+.btn-discover {
+/*  background-color: #6ad58b;*/
+  color: white;
+  padding: 14px 24px;
+  border-radius: 5px;
+  font-weight: bolder;
+  transition: 0.3s;
+  border: 1px solid white;
+  margin: 16px 0 0 0;
+}
+
+.btn-discover:hover {
+  background-color: #3ac162;
+}
+
+.btn-card {
+  color: rgba(50, 50, 50, 0.5);
+  padding: 4px 12px;
+  border-radius: 10px;
+  transition: 0.3s;
+  border: 1px solid rgba(50, 50, 50, 0.5);
+  transition: 0.3s;
+  /*margin: 16px 0 0 0;*/
+}
+
+.btn-card:hover {
+  color: rgba(35, 35, 35, 0.8);
+  border: 1px solid rgba(35, 35, 35, 0.8);
+}

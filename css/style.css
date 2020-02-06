@@ -1,0 +1,35 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+@import url("https://fonts.googleapis.com/css?family=Amaranth:400,700|Titillium+Web:300,400&display=swap");
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/*Components*/
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/cards.css");
+@import url("components/footer.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Amaranth', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+  /*box-shadow: 0px 2px 6px rgba(100, 100, 100, 0.1);*/
+}
+
